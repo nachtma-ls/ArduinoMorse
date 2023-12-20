@@ -12,4 +12,5 @@ El circuito debe ser armado como en la imágen mostrada a continuación:
 
 ## Funcionamiento
 Una vez realizado todo lo anterior, solo vamos a abrir nuestro monitor serie y empezaremos a escribir, el ciruito interpretará el mensaje en forma de sonido.
-Depende el buzzer que hayan colocado, en caso de oír un poco distorcionado prueba a cambiar el buzzer por uno de preferencia de 8Ω.
+Depende el buzzer que hayan colocado.
+En caso de oír un poco distorsionado prueba a cambiar el buzzer por uno de preferencia de 8Ω.
